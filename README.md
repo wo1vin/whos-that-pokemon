@@ -1,5 +1,5 @@
 # Who's That Pokemon?
-
+![image preview of web application](https://github.com/Wo1vin/whos-that-pokemon/blob/main/img/bg.jpg?raw=true)
 ## Description ##
 Pokemon guessing game featuring the PokeAPI. Includes all Pokemon up to 898. 
 
